@@ -7,6 +7,8 @@
 # usage
   ```javascript
 const tiny = require("@rawat-naresh/tiny");
+
 tiny("can you remove all these spaces");
+
 //=>canyouremoveallthesespaces
 ```
