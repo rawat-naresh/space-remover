@@ -2,7 +2,7 @@
   tiniest npm module
 
 # install
-  npm i @rawat-naresh/tiny
+  `npm i @rawat-naresh/tiny`
 
 # usage
   const tiny = require("@rawat-naresh/tiny);
