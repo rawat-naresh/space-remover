@@ -1,10 +1,10 @@
 # tiny
-tiniest npm module
+  tiniest npm module
 
 # install
-npm i @rawat-naresh/tiny
+  npm i @rawat-naresh/tiny
 
 # usage
-const tiny = require("@rawat-naresh/tiny);
-tiny("can you remove all these spaces");
+  const tiny = require("@rawat-naresh/tiny);
+  tiny("can you remove all these spaces");
 //=>canyouremoveallthesespaces
