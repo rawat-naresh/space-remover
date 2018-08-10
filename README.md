@@ -1,0 +1,2 @@
+# tiny
+tiniest npm module
