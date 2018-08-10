@@ -2,7 +2,7 @@
 # tiny
   tiniest npm module
   
-https://img.shields.io/pypi/v/nine.svg
+[![NpmVersion](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://github.com/rawat-naresh/tiny)
 
 # install
   `npm i @rawat-naresh/tiny`
