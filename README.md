@@ -2,7 +2,7 @@
 # Space remover
   tiniest npm module,which removes all the spaces from the given string.
   
-[![NpmVersion](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://github.com/rawat-naresh/tiny)
+[![NpmVersion](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://github.com/rawat-naresh/space-remover)
 
 # install
   `npm i space-remover`
