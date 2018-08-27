@@ -3,6 +3,5 @@ module.exports = function tiny(string) {
   return string.replace(/\s/g, "");
 };
 
-//this is modified line
 //this is another modification
 
