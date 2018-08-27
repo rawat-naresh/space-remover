@@ -5,3 +5,4 @@ module.exports = function tiny(string) {
 /*This is just another branch of the space remover
 for testing purpose
 */
+// this is for testing purpose comment added
