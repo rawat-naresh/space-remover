@@ -4,4 +4,11 @@ module.exports = function tiny(string) {
 };
 
 //this is another modification
+/**
+ * hi this
+ * is
+ * another modigfication
+ * 
+ * 
+ */
 
