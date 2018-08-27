@@ -4,3 +4,4 @@ module.exports = function tiny(string) {
 };
 
 //typing
+//sdfjskldf
